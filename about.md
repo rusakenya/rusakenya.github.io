@@ -4,20 +4,27 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<section class="list">
+<p style="border-style:dotted solid;" ></p>
 
-<p style="border-style:dotted solid;" ><h2>About RUSA</h2></p>
+## About RUSA
+- [RUSA](#rusa)
+- [Main Purpose](#main-purpose)
+- [Our Objectives](#our-objectives)
+- [Core Values](#core-values)
+- [Vision](#vision)
+- [Mission](#mission)
 
+## RUSA
 <p align="justify">Rendille University Students Association (RUSA) is a registered entity under The Kenyan Societies Act Cap 108, with its base in Marsabit County, Kenya.  RUSA was founded with a purpose to promote, strengthen, and enhance the educational, academic and socioeconomic well-being, and advancement, development and the capacity of its members and the community.  In this, its serves all the students on training in all the educational institutions; university and college students and whose origin is that of Laisamis Constituency, Karare Ward, Marsabit Central Ward and those in diaspora. The association also strives to give back to the community in some of the initiatives it undertakes.</p>
 
 <p style="border-style:dotted solid;" ></p>
 
-<h2>Main Purpose</h2>
+## Main Purpose
 <p align="justify">The main purpose of the Association is to promote, strengthen, and enhance the educational, academic and socioeconomic well-being, and advancement, development and the capacity of its members and the (community) educational institutions and students whose geographical origin is that of members of RUSA and to assist in identification, creation, formation, promotion and implementation of strategies and measures for the attainment and sustenance of primary objectives of RUSA.</p>
 
 <p style="border-style:dotted solid;" ></p>
 
-<h2>Our Objectives</h2>
+## Our Objectives
 <ol class="skill-list" type="a">
 	<li> <p align="justify"> To provide, avail and procure assistance of any form and kind in the form of financial, educational and social to any member or group of members, and hence promote social cohesion and togetherness amongst its members.</p></li>
 	<li> <p align="justify"> To initiate, undertake, participate and promote programs, measures and campaigns aimed at improvement of educational performance, increased school enrollment, 
@@ -30,7 +37,7 @@ layout: page
 
 <p style="border-style:dotted solid;" ></p>
 
-<h2>Core Values</h2>
+## Core Values
 
 <ul>
 	<li>Transparency: Openness</li>
@@ -45,13 +52,11 @@ layout: page
 
 <p style="border-style:dotted solid;" ></p>
 
-<h2>Vision and Mission</h2>
+## Vision and Mission
 
-<h3>Vision</h3>
+### Vision
 
 <p align="justify" >Rendille University Students Association seeks to provide a gathering place with exceptional support, programs, services and facilities to encourage formal and informal learning and leadership growth to its members.</p>
 
-<h3>Mission</h3>
+### Mission
 <p align="justify">To promote, strengthen and enhance the educational, academic and socioeconomic well-being of its members.</p>
-
-</section>
